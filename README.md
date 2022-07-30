@@ -1,1 +1,1 @@
-# MongoDB-Social-Newtork-API
+# MongoDB-Social-Network-API
