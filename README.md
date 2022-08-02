@@ -29,8 +29,10 @@ There are no test for this application.
 
 # Demo Functionality
 
-Link to - [ScreenRecording]()
+Link to Starting Server- [ScreenRecording](https://drive.google.com/file/d/1MfwmF_NHVqInxwGmuElVf6ClPgDG0QGE/view)
 
-Link to GET routes for all categories, all products, and all tags- [ScreenRecording]()
+Link to GET routes for all users and all thoughts- [ScreenRecording](https://drive.google.com/file/d/1zBaOrljM471RTQ83dgIQl0JuMw1niJ1_/view)
 
-Link to GET single category routes for all categories, all products, and all tags along with POST, PUT, DELETE routes for all categories, all products, and all tags - [ScreenRecording]()
+Link to GET single category routes for all users, all thoughts, all reactions, and all friends along with POST, PUT, DELETE  - [ScreenRecording](https://drive.google.com/file/d/1Hxp8wnyXhyp7DquCFVcu6GJ0M9fl5rOm/view)
+
+Link to DELETE friends - [ScreenRecording](https://drive.google.com/file/d/1xSvN6RPB6Lw5CYNl7W-kzwRkSbs2Hpz0/view)
