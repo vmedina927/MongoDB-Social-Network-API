@@ -1,14 +1,15 @@
 const express = require('express');
 const mongoose = require('mongoose');
+const router = require('./routes')
 
 const app = express();
 const PORT = process.env.PORT || 3001;
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true}));
-app.use(require('./routes'));
+app.use(router)
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/mongodb-social-network-api', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/social-network-api', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 });
